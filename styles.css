@@ -1,0 +1,60 @@
+h1 {
+  text-align: center;
+  color: black;
+}
+/*body {
+background-image: url(https://media.giphy.com/media/3o85xAYQLOhSrmINHO/giphy.gif);
+}*/
+.main {
+  border: 10px;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 100px;
+  margin: 0 auto;
+  display: block;
+  color: snow;
+  text-shadow: 0 0 5px black;
+}
+.btn {
+  margin: 16px 10px;
+  background: #dfe1e5;
+  border: none;
+  padding: 10px 20px;
+  font-size: 15px;
+  font-family: inherit;
+  font-weight: bold;
+}
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.logo-img {
+  margin: 10px auto;
+  width: 500px;
+  height: 300px;
+  background-size: cover;
+  display: block;
+  border-radius: 10% 0;
+  border: 5px solid black;
+  background-image: url("xarpus.jpg");
+}
+.email-input {
+  display: block;
+  width: 300px;
+  padding: 10px 30px;
+  border: 1px solid #dfe1e5;
+  border-radius: 10px;
+  margin: 0 auto;
+  font-size: 16px;
+}
+.cta {
+  padding: 5px 10px;
+  background: #8f4737;
+  text-decoration: underline;
+}
+.logo-img:hover {
+  background-image: url("bloat.webp");
+}
+a{
+  color: black;
+}
